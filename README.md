@@ -1,12 +1,10 @@
-# Challenge-19
-
-# Neural Networks 
+# Charity Success Analysis
 
 # Overview of the Analysis
 
-The study analyzed a dataset of 34,299 charities that have received funding from a large philantropic organization over the years. Using the metadata of each charity, a deep neural network model was built in order to determine whether or not the charity was successful in effectively using the money it received. After building the initial model, several attempts were made to maximize its prediction accuracy beyond a specific threshold.
+The study analyzed a dataset of 34,299 charities that have received funding from a large philanthropic organization over the years. Using the metadata of each charity, a deep neural network model was built in order to predict their success in effectively using donations for their intended causes. After building the initial model, several attempts were made to maximize its prediction accuracy beyond a specific threshold.
 
-The results of the study aims to help the philantropic organization screen potential recepients of its donations based on a particular set of fetaures. This will minimize the overall risk of the organization since they can better allocate their donations to charities who will most likely use it successfully. 
+The results of the study aims to help the philanthropic organization accurately screen potential recipients of its limited funding. This will help minimize their overall risk since donations will be allocated to charities who are predicted to succeed based on their features.
 
 # Results
 
